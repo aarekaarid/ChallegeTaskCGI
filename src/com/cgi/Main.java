@@ -1,6 +1,3 @@
-//+++2021-05-26 seisuga kood, mis sordib sisenemise kella aja alusel kogu listi
-//+++probleem: peaks itereerima iga minuti tagant ja otsima vastavusi listis!
-//+++probleem: if lauseid tuleb liiga palju et mõista iga sisse/välja aegade suhteid omavahel
 package com.cgi;
 
 import java.io.File;
